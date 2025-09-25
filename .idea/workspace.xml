@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6dfef3d-2c2b-4fef-8678-14c65e838eed" name="Changes" comment="Tarea semana 11" />
+    <list default="true" id="c6dfef3d-2c2b-4fef-8678-14c65e838eed" name="Changes" comment="Tarea semana 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,32 +43,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Búsqueda en arreglo multidimensional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Función para calcular temperaturas promedio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ordenación de arreglo multidimensional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Registro de temperaturas diarias.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Registro de temperaturas en ciudades.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Búsqueda en arreglo multidimensional.executor": "Run",
+    "Python.Cálculo de descuento en compras.executor": "Run",
+    "Python.Cálculo de descuento.executor": "Run",
+    "Python.Cálculo descuento.executor": "Run",
+    "Python.Diccionarios en Python.executor": "Run",
+    "Python.Función para calcular temperaturas promedio.executor": "Run",
+    "Python.Ordenación de arreglo multidimensional.executor": "Run",
+    "Python.Registro de temperaturas diarias.executor": "Run",
+    "Python.Registro de temperaturas en ciudades.executor": "Run",
+    "Python.Trabajando con diccionarios en Python.executor": "Run",
+    "Python.rin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\2025-FP-TanquenoSergio-\Semana 14" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +108,12 @@
       <workItem from="1757295943551" duration="69000" />
       <workItem from="1757439467389" duration="266000" />
       <workItem from="1757813509795" duration="8932000" />
-      <workItem from="1757877777048" duration="1592000" />
+      <workItem from="1757877777048" duration="1990000" />
+      <workItem from="1758426564986" duration="7569000" />
+      <workItem from="1758470444850" duration="13504000" />
+      <workItem from="1758508757759" duration="2649000" />
+      <workItem from="1758767181142" duration="3714000" />
+      <workItem from="1758771080362" duration="4058000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 11">
       <option name="closed" value="true" />
@@ -144,7 +163,47 @@
       <option name="project" value="LOCAL" />
       <updated>1757197409969</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tarea semana 14">
+      <option name="closed" value="true" />
+      <created>1758474082527</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758474082527</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea semana 14">
+      <option name="closed" value="true" />
+      <created>1758496749860</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758496749860</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea semana 14">
+      <option name="closed" value="true" />
+      <created>1758510233895</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758510233895</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea semana 15">
+      <option name="closed" value="true" />
+      <created>1758511176616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758511176616</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Tarea semana 15">
+      <option name="closed" value="true" />
+      <created>1758775129248</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758775129248</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,13 +212,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea semana 11" />
     <MESSAGE value="Tarea semana 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 12" />
+    <MESSAGE value="Tarea semana 14" />
+    <MESSAGE value="Tarea semana 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 15" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Búsqueda_en_arreglo_multidimensional.coverage" NAME="Búsqueda en arreglo multidimensional Coverage Results" MODIFIED="1756600288841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Cálculo_descuento.coverage" NAME="Cálculo descuento Coverage Results" MODIFIED="1758774421476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Búsqueda_en_arreglo_multidimensional.coverage" NAME="Búsqueda en arreglo multidimensional Coverage Results" MODIFIED="1758426757456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Diccionarios_en_Python.coverage" NAME="Diccionarios en Python Coverage Results" MODIFIED="1758775055850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 15" />
     <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Registro_de_temperaturas_diarias.coverage" NAME="Registro de temperaturas diarias Coverage Results" MODIFIED="1757193767286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 12" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Cálculo_de_descuento_en_compras.coverage" NAME="Cálculo de descuento en compras Coverage Results" MODIFIED="1758493636300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$rin.coverage" NAME="rin Coverage Results" MODIFIED="1758511573480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
     <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Ordenación_de_arreglo_multidimensional.coverage" NAME="Ordenación de arreglo multidimensional Coverage Results" MODIFIED="1756600173649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Cálculo_de_descuento.coverage" NAME="Cálculo de descuento Coverage Results" MODIFIED="1758509720389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
     <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Registro_de_temperaturas_en_ciudades.coverage" NAME="Registro de temperaturas en ciudades Coverage Results" MODIFIED="1757439588012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 12" />
-    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Función_para_calcular_temperaturas_promedio.coverage" NAME="Función para calcular temperaturas promedio Coverage Results" MODIFIED="1757879054469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 13" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Trabajando_con_diccionarios_en_Python.coverage" NAME="Trabajando con diccionarios en Python Coverage Results" MODIFIED="1758774148337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 15" />
+    <SUITE FILE_PATH="coverage/2025_FP_TanquenoSergio_$Función_para_calcular_temperaturas_promedio.coverage" NAME="Función para calcular temperaturas promedio Coverage Results" MODIFIED="1758426698848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 13" />
   </component>
 </project>
